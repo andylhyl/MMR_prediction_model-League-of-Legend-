@@ -6,8 +6,8 @@ This project delves into the extraction, analysis, and modeling of player data f
 **Riot Games API**: Player data is primarily sourced from the League of Legends API provided by Riot Games. For effective execution of the notebooks, an API key from Riot Games is essential. Secure your API key [here](https://developer.riotgames.com/).
 
 ## Notebooks 📓:
-1. **data_extraction_to_sql.ipynb**: This Jupyter notebook will manages the extraction of data from the Riot API and its storage into a MySQL database.
-2. **data_cleaning_modeling.ipynb**: This notebook will include the full data cleaning process, preliminary analyses, and the construction of the MMR prediction model.
+1. **MMR Prediction Model Part 1**: This Jupyter notebook will manages the extraction of data from the Riot API and its storage into a MySQL database.
+2. **MMR Prediction Model Part 2**: This notebook will include the full data cleaning process, preliminary analyses, and the construction of the MMR prediction model.
 
 
 ## Acknowledgements 🙏:
